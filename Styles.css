@@ -1,0 +1,20 @@
+/*General*/
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+}
+/*Agregar*/
+.container-header{
+    margin:10px;
+}
+
+/*Index*/
+.container-Image{
+    width:100%;
+}
